@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: Gestão Financeira utilizando Engenharia de Requisitos
+theme: material
+extra_css:
+  - css/custom.css
