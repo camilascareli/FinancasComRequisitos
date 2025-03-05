@@ -1,1 +1,1 @@
-# FinancasComRequisitos
+# Gestão Financeira utilizando a Engenharia de Requisitos
